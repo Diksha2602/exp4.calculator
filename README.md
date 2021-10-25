@@ -1,5 +1,5 @@
 
-#Project link in glitch: https://glitch.com/edit/#!/bronzed-solid-darkness
+#Project link in glitch: https://bronzed-solid-darkness.glitch.me/
 
 
 #Project code in glitch: https://glitch.com/edit/#!/bronzed-solid-darkness
